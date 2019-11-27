@@ -8,6 +8,10 @@
         "Логин": "Login",
         "Пароль": "Password",
         "logo_pb.svg": "logo_pb_en.svg"
+    },
+    "codes": {
+        "404": "Page not found",
+        "test.error": "Test error text"
     }
 }
 
