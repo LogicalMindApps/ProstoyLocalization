@@ -1,6 +1,6 @@
 {
     "strings": {
-        "Вход": "Sign In~",
+        "Вход": "Sign In",
             "Регистрация": "Sign Up",
             "Запомнить пароль": "Save password",
             "Забыли пароль?": "Forgot password?",
